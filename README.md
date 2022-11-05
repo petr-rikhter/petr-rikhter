@@ -1,4 +1,4 @@
-### Hi there, I'm Petr. A frontend developer.👋
+### 👋 Hi there, I'm Petr. A frontend developer.
 
 📫 **Contact with me**: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/enjoy_the_s1lenceee)
